@@ -26,6 +26,27 @@ Projelerinizi bu platformlarda sunmak isterseniz Geliştirici konsolumuz olan Ar
 ## Geliştirme:
 - Bu proje şahsımca PHP ile yazıldı geliştirmek için PHP,HTML,CSS ve JS bilmeniz yeterli.
 
+### Kendin barındırma?
+
+1. Depoyu klonla
+```sh
+git clone https://github.com/Artadp-Project/artado-devs
+```
+
+2. Bağımlılıkları çalıştır
+```sh
+yarn install
+# OR
+npm install
+```
+
+3. Localde çalıştırın
+```sh
+npm run dev
+```
+
+4. Tarayıcınızda `http://localhost:5173` adresine gidin
+
 Eksikliklerimiz:
 Şuanda tek eksiğimiz Yapılacaklar listesi ve onu da firebase ile yapmayı planlıyorum çünkü veritabanımıza fazla yük bindilirmesini istemiyoruz.
 Ancak firebase özel mülkiyet olduğu için bucketbase daha uygun olacaktır.
@@ -46,22 +67,6 @@ Yayımlanan içeriklere Artado Store ve Artado Search platformlarından ulaşıl
 
 ## Contributing
 Artado Developers web sitesine katkılarınız memnuniyetle karşılanır! Katkıda bulunmak istiyorsanız lütfen [katkı yönergeleri](katkida-bulun.md). takip edin .
-
-## Dağıtım:
-Proje PHP ile yazıldı ancak bileşenler Node kütüphanelerini kullanıyor.
-Using a ready-made built (recommended)
-Download the latest release from the releases page. Open the index HTML file and explore the source code.
-
-Building yourself
-Clone the repository
-git clone https://github.com/Artado-Project/artadodevs
-Install dependencies
-''' yarn install
-# OR
-npm install '''
-Run it locally
-npm run dev
-Open http://localhost:5173 in your browser
 
 ## License
 Bu proje [GNU Affero General Public License v3.0](LICENSE).. Lisansın şartlarına uygun olarak kodu kullanmakta, değiştirmekte ve dağıtmakta özgürsünüz.
