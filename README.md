@@ -1,10 +1,10 @@
-Özgür ve Açık kaynaklı proje paylaşım platformu: **Artado Devs**
-Artado Devs size ne vaat ediyor?
+## Özgür ve Açık kaynaklı proje paylaşım platformu: **Artado Devs**
+### Artado Devs size ne vaat ediyor?
 - Projelerinizi Artado ekosistem ürünlerinin hizmetine sunmanızı sağlıyoruz
 - Projeleriniz için daha estetik bir sunum yapmanızı sağlıyoruz
 - Özgürlük gibi değerlerden uzaklaşmış Github kullanımına alternatif sağlıyoruz
 
-Artado Projelerimi nerede görebileceğim?
+## Artado Projelerimi nerede görebileceğim?
 - Artado Workshop : https://artadosearch.com/Workshop // Artado Search için eklenti ve logo mağazası
 - Artado Store : https://store.artado.xyz ileri süreçte kullanıma sunulacak aynı zamanda Celer browser için tema ve eklenti mağazası olmakla birlikte ArusOS için de çeşitli eklentiler sunulacaktır.
 
@@ -17,7 +17,22 @@ Projelerinizi bu platformlarda sunmak isterseniz Geliştirici konsolumuz olan Ar
 ![image](https://github.com/user-attachments/assets/81721ead-2e8d-471a-bdb3-666bc2f3339f)
 ![image](https://github.com/user-attachments/assets/ff6c1bad-39c0-4aa7-9794-7e6c588696c3)
 
+## Kullanım:
+Artado Developers web sitesinde geliştirici olarak kayıt olun.
+Giriş yapın ve projelerinizi yönetmek için panoyu keşfedin.
+Uygulamalarınızı, oyunlarınızı, temalarınızı, uzantılarınızı veya simgelerinizi yükleyin.
+Toplulukla etkileşime geçin, geri bildirim toplayın ve tasarımlarınızı geliştirin.
+Yayımlanan içeriklere Artado Store ve Artado Search platformlarından ulaşılabilecek.
 
+
+## Katkıda bulunmak
+Artado Developers web sitesine katkılarınız memnuniyetle karşılanır! Katkıda bulunmak istiyorsanız lütfen [katkı yönergeleri](CONTRIBUTING.md). takip edin .
+
+## Lisans
+Bu proje [GNU Affero General Public License v3.0](LICENSE).. Lisansın şartlarına uygun olarak kodu kullanmakta, değiştirmekte ve dağıtmakta özgürsünüz.
+
+Artado Developers'a olan ilginizi takdir ediyoruz. Birlikte, geliştiriciler ve kullanıcıların bağlantı kurması ve yaratıcı katkılarını paylaşması için ilgi çekici bir platform oluşturabiliriz. Herhangi bir sorunuz veya geri bildiriminiz varsa bizimle iletişime geçmekten çekinmeyin .
+Benimle iletişime geçmek için: sxi@sxi.com.tr veya sxi@artadosearch.com veya arda@artadosearch.com adreslerine mail atabilirsiniz.
 Diğer projelerimiz için: https://artado.xyz
 Arama motorumuz için: https://artadosearch.com
 Forumumuz için: https://forum.artado.xyz
