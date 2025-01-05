@@ -29,7 +29,7 @@ Projelerinizi bu platformlarda sunmak isterseniz Geliştirici konsolumuz olan Ar
 ### Kendin barındırma?
 
 2 adet yöntem var ilk yöntem paketleri npm ile indirmek:
-
+## 1. Yöntem:
 1. Depoyu klonla
 ```sh
 git clone https://github.com/Artado-Project/artado-devs
@@ -49,7 +49,7 @@ npm run dev
 
 4. Tarayıcınızda `http://localhost:5173` adresine gidin
 
-2. Yöntem:
+## 2. Yöntem:
 Devs klasörünü indirin user klasörüne girin ve assets klasörünü çıkartın ve sunucunuzda veya hostinginizde yada Laragon üzerinde çalıştırın ve keyfini çıkartın.
 Eksikliklerimiz:
 Şuanda tek eksiğimiz Yapılacaklar listesi ve onu da firebase ile yapmayı planlıyorum çünkü veritabanımıza fazla yük bindilirmesini istemiyoruz.
