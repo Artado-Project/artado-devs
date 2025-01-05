@@ -47,6 +47,22 @@ Yayımlanan içeriklere Artado Store ve Artado Search platformlarından ulaşıl
 ## Contributing
 Artado Developers web sitesine katkılarınız memnuniyetle karşılanır! Katkıda bulunmak istiyorsanız lütfen [katkı yönergeleri](katkida-bulun.md). takip edin .
 
+## Dağıtım:
+Proje PHP ile yazıldı ancak bileşenler Node kütüphanelerini kullanıyor.
+Using a ready-made built (recommended)
+Download the latest release from the releases page. Open the index HTML file and explore the source code.
+
+Building yourself
+Clone the repository
+git clone https://github.com/Artado-Project/artadodevs
+Install dependencies
+''' yarn install
+# OR
+npm install '''
+Run it locally
+npm run dev
+Open http://localhost:5173 in your browser
+
 ## License
 Bu proje [GNU Affero General Public License v3.0](LICENSE).. Lisansın şartlarına uygun olarak kodu kullanmakta, değiştirmekte ve dağıtmakta özgürsünüz.
 
