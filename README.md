@@ -30,7 +30,7 @@ Projelerinizi bu platformlarda sunmak isterseniz Geliştirici konsolumuz olan Ar
 
 1. Depoyu klonla
 ```sh
-git clone https://github.com/Artadp-Project/artado-devs
+git clone https://github.com/Artado-Project/artado-devs
 ```
 
 2. Bağımlılıkları çalıştır
