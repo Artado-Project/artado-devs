@@ -45,7 +45,7 @@ Yayımlanan içeriklere Artado Store ve Artado Search platformlarından ulaşıl
 
 
 ## Contributing
-Artado Developers web sitesine katkılarınız memnuniyetle karşılanır! Katkıda bulunmak istiyorsanız lütfen [katkı yönergeleri](CONTRIBUTING.md). takip edin .
+Artado Developers web sitesine katkılarınız memnuniyetle karşılanır! Katkıda bulunmak istiyorsanız lütfen [katkı yönergeleri](katkida-bulun.md). takip edin .
 
 ## License
 Bu proje [GNU Affero General Public License v3.0](LICENSE).. Lisansın şartlarına uygun olarak kodu kullanmakta, değiştirmekte ve dağıtmakta özgürsünüz.
