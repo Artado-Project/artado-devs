@@ -1,7 +1,7 @@
 ## Özgür ve Açık kaynaklı proje paylaşım platformu: **Artado Devs**
 - [Neler Sunuyoruz?](#Artado-Devs-size-ne-vaat-ediyor?)
 - [Projelerim nerede yayınlanıyor?](#Artado-Projelerimi-nerede-görebileceğim?)
-- [Usage](#usage)
+- [Kullanım](#kullanım)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -9,6 +9,13 @@
 - Projelerinizi Artado ekosistem ürünlerinin hizmetine sunmanızı sağlıyoruz
 - Projeleriniz için daha estetik bir sunum yapmanızı sağlıyoruz
 - Özgürlük gibi değerlerden uzaklaşmış Github kullanımına alternatif sağlıyoruz
+- Uygulama ve Oyun Yayıncılığı: Geliştiriciler, uygulamalarını ve oyunlarını Artado Store'da kolayca yayınlayabilir ve bunları geniş bir kullanıcı kitlesine ulaştırabilirler.
+
+- Tema, Uzantı ve Simge Yayıncılığı: Artado Developers, içerik oluşturucuların Artado Search platformu için temaları, uzantıları ve simgeleri sergilemesini ve dağıtmasını sağlayarak kullanıcı özelleştirmesini artırır.
+
+- İşbirlikçi Ortam: Geliştiriciler projeler üzerinde iş birliği yapabilir, fikir paylaşabilir ve gelişen bir ekosistem yaratmak için Artado topluluğuyla etkileşime girebilirler.
+
+- Kullanıcı Dostu Kontrol Paneli: Platform, yayınlama sürecini basitleştiren ve uygulama kullanımı ve etkileşimi hakkında bilgi sağlayan sezgisel bir kontrol paneli sunuyor.
 
 ## Artado Projelerimi nerede görebileceğim?
 - Artado Workshop : https://artadosearch.com/Workshop // Artado Search için eklenti ve logo mağazası
@@ -37,10 +44,10 @@ Toplulukla etkileşime geçin, geri bildirim toplayın ve tasarımlarınızı ge
 Yayımlanan içeriklere Artado Store ve Artado Search platformlarından ulaşılabilecek.
 
 
-## Katkıda bulunmak
+## Contributing
 Artado Developers web sitesine katkılarınız memnuniyetle karşılanır! Katkıda bulunmak istiyorsanız lütfen [katkı yönergeleri](CONTRIBUTING.md). takip edin .
 
-## Lisans
+## License
 Bu proje [GNU Affero General Public License v3.0](LICENSE).. Lisansın şartlarına uygun olarak kodu kullanmakta, değiştirmekte ve dağıtmakta özgürsünüz.
 
 Artado Developers'a olan ilginizi takdir ediyoruz. Birlikte, geliştiriciler ve kullanıcıların bağlantı kurması ve yaratıcı katkılarını paylaşması için ilgi çekici bir platform oluşturabiliriz. Herhangi bir sorunuz veya geri bildiriminiz varsa bizimle iletişime geçmekten çekinmeyin .
