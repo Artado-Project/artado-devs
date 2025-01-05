@@ -41,7 +41,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $stmt->execute();  
 
             $success_message = "Kayıt başarılı! Giriş yapabilirsiniz.";
-            header("Location: auth-login.php?registered=true");
+            header("Location: /user");
             exit();
         } catch (PDOException $e) {
             if ($e->getCode() == 23000) {
