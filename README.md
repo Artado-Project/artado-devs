@@ -1,4 +1,10 @@
 ## Özgür ve Açık kaynaklı proje paylaşım platformu: **Artado Devs**
+- [Neler Sunuyoruz?](#Artado-Devs-size-ne-vaat-ediyor?)
+- [Projelerim nerede yayınlanıyor?](#Artado-Projelerimi-nerede-görebileceğim?)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
 ### Artado Devs size ne vaat ediyor?
 - Projelerinizi Artado ekosistem ürünlerinin hizmetine sunmanızı sağlıyoruz
 - Projeleriniz için daha estetik bir sunum yapmanızı sağlıyoruz
@@ -10,6 +16,12 @@
 
 Projelerinizi bu platformlarda sunmak isterseniz Geliştirici konsolumuz olan Artado Devs kullanıma sunuldu ziyaret etmek için: https://devs.artado.xyz adresine gidebilirsiniz.
 
+## Geliştirme:
+- Bu proje şahsımca PHP ile yazıldı geliştirmek için PHP,HTML,CSS ve JS bilmeniz yeterli.
+
+Eksikliklerimiz:
+Şuanda tek eksiğimiz Yapılacaklar listesi ve onu da firebase ile yapmayı planlıyorum çünkü veritabanımıza fazla yük bindilirmesini istemiyoruz.
+Ancak firebase özel mülkiyet olduğu için bucketbase daha uygun olacaktır.
 
 ![image](https://github.com/user-attachments/assets/802c8cac-4c55-45cd-a901-e24932f9e8ad)
 ![image](https://github.com/user-attachments/assets/df35d6e3-02f5-47bf-b865-71dd530476bb)
