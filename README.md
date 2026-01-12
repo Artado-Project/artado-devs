@@ -80,7 +80,7 @@ Artado Developers web sitesine katkılarınız memnuniyetle karşılanır! Katk�
 Bu proje [GNU Affero General Public License v3.0](LICENSE).. Lisansın şartlarına uygun olarak kodu kullanmakta, değiştirmekte ve dağıtmakta özgürsünüz.
 
 Artado Developers'a olan ilginizi takdir ediyoruz. Birlikte, geliştiriciler ve kullanıcıların bağlantı kurması ve yaratıcı katkılarını paylaşması için ilgi çekici bir platform oluşturabiliriz. Herhangi bir sorunuz veya geri bildiriminiz varsa bizimle iletişime geçmekten çekinmeyin .
-Benimle iletişime geçmek için: sxi@sxi.com.tr veya sxi@artadosearch.com veya arda@artadosearch.com adreslerine mail atabilirsiniz.
+Benimle iletişime geçmek için: sxi@artadosearch.com veya arda@artadosearch.com adreslerine mail atabilirsiniz.
 Diğer projelerimiz için: https://artado.xyz
 Arama motorumuz için: https://artadosearch.com
 Forumumuz için: https://forum.artado.xyz
