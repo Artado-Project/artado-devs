@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JS Test</title>
+</head>
+<body>
+    <h1>JavaScript Test</h1>
+    <div id="test"></div>
+    
+    <script>
+        console.log('Testing JavaScript...');
+        
+        // Test if app.js loads
+        var script = document.createElement('script');
+        script.src = 'assets/compiled/js/app.js';
+        script.onload = function() {
+            console.log('✓ app.js loaded successfully');
+            document.getElementById('test').innerHTML = '✓ app.js loaded';
+        };
+        script.onerror = function() {
+            console.error('✗ app.js failed to load');
+            document.getElementById('test').innerHTML = '✗ app.js failed to load';
+        };
+        document.head.appendChild(script);
+    </script>
+</body>
+</html>
